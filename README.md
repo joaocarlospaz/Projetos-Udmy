@@ -1,2 +1,2 @@
 # Projetos Udmy
-Minha trajetoria na programação
+Contém o caminho que seguindo pra me tornar um bom dev...

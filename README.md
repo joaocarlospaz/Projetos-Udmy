@@ -1,3 +1,3 @@
-# Projetos em Python
-Hello World! My name's João Carlos!
+# Hello World! My name's João Carlos!
+Projetos em Python.
 Apenas uma trilha de conhecimento...

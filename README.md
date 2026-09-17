@@ -1,2 +1,2 @@
-# Projetos Udmy
+# Projetos
 Contém o caminho que estou seguindo pra me tornar um bom dev...
